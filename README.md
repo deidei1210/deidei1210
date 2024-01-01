@@ -24,9 +24,10 @@ I'm looking forward to making freinds with all of you!😉
 - 💬 Ask me about C++/C , Weixin miniprogram , Python , Javascript , Arknights , Arcaea , Project Sega , Chunithm...
 - 📫 How to reach me: 1548374581@qq.com
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=deidei1210&show_icons=true&theme=tokyonight&count_private=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deidei1210&theme=material_palenight)
 
+![](https://github-readme-stats.vercel.app/api?username=deidei1210&show_icons=true&theme=material-palenight)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deidei1210&theme=tokyonight&layout=compact)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deidei1210&theme=material_palenight)
 
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deidei1210&theme=material_palenight&utcOffset=8)
