@@ -1,5 +1,5 @@
 ![Local Image](./image/header.png)
-<h2> Hi there 👋，I'm Daisy Chu 🎀, which is a little cat from Tongji University!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Daisy Chu 🎀, which is a little cat from Tongji University!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <h4>こんにちは！私はダイジー・チュー、同濟大学の小さな猫🐾です！<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">Chu~</h4>
 
