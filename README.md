@@ -29,17 +29,7 @@ Here are some ideas to get you started:
 
   <h4 align = 'center'><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em></h4>
 
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deidei1210&theme=material_palenight)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deidei1210&theme=material_palenight&utcOffset=8)
-
-![](https://github-readme-stats.vercel.app/api?username=deidei1210&show_icons=true&theme=material-palenight)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deidei1210&theme=material_palenight)
-
-
-**languages and tools:**  
+<p align = 'center'><h4>languages and tools: </h4> 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
@@ -50,4 +40,15 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code></p>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deidei1210&theme=material_palenight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deidei1210&theme=material_palenight&utcOffset=8)
+
+![](https://github-readme-stats.vercel.app/api?username=deidei1210&show_icons=true&theme=material-palenight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deidei1210&theme=material_palenight)
+
+
+
