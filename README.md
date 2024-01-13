@@ -27,9 +27,9 @@ waka_6d60d7e1-4a46-4036-b948-e5f3dd31ef14
 <p align="center">
   💻 I love writing code and learn anythings about it 😄
   <br>
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-  <br>
   📫 How to reach me: 1548374581@qq.com
+  <br>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 </p>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deidei1210&theme=material_palenight)
