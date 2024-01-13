@@ -24,13 +24,12 @@ waka_6d60d7e1-4a46-4036-b948-e5f3dd31ef14
 -->
   <h4 align = 'center'>Welcome to be the <img src="https://moe-counter.glitch.me/get/@:deidei1210?theme=rule40" alt="visitor"></img> visitor of my Github.ようこそ！～😋👏👏</h4>
     <h4 align = 'center'>🔬 I'm currently studying at Tongji University, department of Software Engineering!<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></img></h4>
-<p align="center">
-  💻 I love writing code and learn anythings about it 😄
-  <br>
-  📫 How to reach me: 1548374581@qq.com
-  <br>
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-</p>
+  <h4 align = 'center'>💻 I love writing code and learn anythings about it 😄</h4>
+
+  <h4 align = 'center'>📫 How to reach me: 1548374581@qq.com</h4>
+
+  <h4 align = 'center'><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em></h4>
+
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deidei1210&theme=material_palenight)
 
