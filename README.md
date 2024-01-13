@@ -1,9 +1,9 @@
 <!-- ![Local Image](./image/header.png) -->
+
+<h2 align = 'center'> Daisy Chu 🎀, who is a little cat from Tongji University!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <p align = 'center'>
 <img src="./image/1.gif" width='150'></img>
 </p>
-<h2 align = 'center'> Daisy Chu 🎀, who is a little cat from Tongji University!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-
 <h4 align = 'center'>こんにちは！私はダイジー・チュー、同濟大学の小さな猫🐾です！<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">Chu~</h4>
 
 Welcome to be the ![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg) visitor of my Github.
