@@ -1,12 +1,15 @@
 ![Local Image](./image/header.png)
-### Hi there 👋，I'm Daisy Chu from Tongji University!
+<h2> Hi there 👋，I'm Daisy Chu 🎀, which is a little cat from Tongji University!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+
+<h4>こんにちは！私はダイジー・チュー、同濟大学の小さな猫🐾です！<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">Chu~</h4>
+
 Welcome to be the ![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg) visitor of my Github.
 
 <!--
 **deidei1210/deidei1210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+waka_6d60d7e1-4a46-4036-b948-e5f3dd31ef14
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
