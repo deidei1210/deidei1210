@@ -33,3 +33,14 @@ I'm looking forward to making freinds with all of you!😉
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deidei1210&theme=material_palenight)
 
 
+<!--START_SECTION:waka-->
+
+```txt
+TypeScript   3 hrs 6 mins    ██████████████▒░░░░░░░░░░   56.83 %
+HTML         1 hr 36 mins    ███████▒░░░░░░░░░░░░░░░░░   29.51 %
+Bash         18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
+JSON         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
+Dart         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
+```
+
+<!--END_SECTION:waka-->
