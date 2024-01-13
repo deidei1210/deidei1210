@@ -1,6 +1,6 @@
 <!-- ![Local Image](./image/header.png) -->
 
-<h2 align = 'center'> Daisy Chu 🎀, who is a little cat from Tongji University!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h1 align = 'center'> Daisy Chu 🎀, who is a little cat from Tongji University!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 <p align = 'center'>
 <img src="./image/1.gif" width='150'></img>
 </p>
