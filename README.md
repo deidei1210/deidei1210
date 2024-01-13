@@ -6,7 +6,7 @@
 </p>
 <h4 align = 'center'>こんにちは！私はダイジー・チュー、同濟大学の小さな猫🐾です！<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">Chu~</h4>
 
-Welcome to be the ![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg) visitor of my Github.
+
 
 <!--
 **deidei1210/deidei1210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,14 +22,27 @@ waka_6d60d7e1-4a46-4036-b948-e5f3dd31ef14
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I love to talk about ✨ technology✨ and keep learning the latest technology.    
-In my free time, I also love to learn foreign languages💬 and dance💃 !    
-I'm looking forward to making freinds with all of you!😉   
 
-- 🔭 I’m currently studying Software Engerneering in Tongji University.
-- 🌱 I’m currently learning CV , Web designing , SQL , IELTS , javascript...
-- 💬 Ask me about C++/C , Weixin miniprogram , Python , Javascript , Arknights , Arcaea , Project Sega , Chunithm...
-- 📫 How to reach me: 1548374581@qq.com
+<p align="center">
+  Welcome to be the <img src="https://moe-counter.glitch.me/get/@:deidei1210?theme=rule40" alt="visitor"></img> visitor of my Github.
+  <br>
+  <br>
+  🔬 I'm currently studying for my doctorate at Atatürk University, Department of Computer Engineering
+  <br>
+  🎓 I graduated from Atatürk University, Department of Computer Engineering (Master)
+  <br>
+  🎓 I graduated from Black Sea Technical University, Department of Computer Engineering (Undergraduate)
+  <br>
+  🎓 I graduated from Erzurum İbrahim Hakkı Science High School
+  <br>
+  💻 I love writing code and learn anythings about it
+  <br>
+  📚 I’m currently learning how to build E-Commerce Website with Django
+  <br>
+  💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
+  <br>
+  📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
+</p>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deidei1210&theme=material_palenight)
 
