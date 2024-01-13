@@ -1,3 +1,4 @@
+![Local Image](./image/header.png)
 ### Hi there 👋，I'm Daisy Chu from Tongji University!
 Welcome to be the ![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg) visitor of my Github.
 
@@ -33,14 +34,15 @@ I'm looking forward to making freinds with all of you!😉
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deidei1210&theme=material_palenight)
 
 
-<!--START_SECTION:waka-->
+**languages and tools:**  
 
-```txt
-TypeScript   3 hrs 6 mins    ██████████████▒░░░░░░░░░░   56.83 %
-HTML         1 hr 36 mins    ███████▒░░░░░░░░░░░░░░░░░   29.51 %
-Bash         18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
-JSON         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
-Dart         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
-```
-
-<!--END_SECTION:waka-->
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
