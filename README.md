@@ -44,13 +44,15 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code></div>
 
-
+<p align = 'center'>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deidei1210&theme=material_palenight"></img>
+</p>
 
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deidei1210&theme=material_palenight&utcOffset=8" />
     <img src="https://github-readme-stats.vercel.app/api?username=deidei1210&show_icons=true&theme=material-palenight" />
 </div>
 
-
+<p align = 'center'>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deidei1210&theme=material_palenight"></img>
+</p>
